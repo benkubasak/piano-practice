@@ -59,7 +59,7 @@ function loadJSONContent() {
         return output;
     }
   
-    fetch("/piano-practice/src/json/piano_practice.json")
+    fetch("/piano-practice/src/json/default.json")
         .then(response => response.json())
         .then(data => {
             generateHTML(data);
