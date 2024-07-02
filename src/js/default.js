@@ -59,7 +59,7 @@ function loadJSONContent() {
         return output;
     }
   
-    fetch('/src/json/default.json')
+    fetch('../json/default.json')
         .then(response => response.json())
         .then(data => {
             generateHTML(data);
