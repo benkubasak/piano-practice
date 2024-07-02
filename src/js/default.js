@@ -59,11 +59,7 @@ function loadJSONContent() {
         return output;
     }
   
-    const scriptPath = document.currentScript.src;
-    const srcDirectory = scriptPath.substring(0, scriptPath.lastIndexOf('/js'));
-    const jsonFilePath = `${srcDirectory}/json/piano_practice.json`;
-  
-    fetch(jsonFilePath)
+    fetch("/piano-practice/src/json/piano_practice.json")
         .then(response => response.json())
         .then(data => {
             generateHTML(data);
