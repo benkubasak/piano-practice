@@ -1,0 +1,28 @@
+:root {
+	--html-font-size: 16px;
+	--body-font-size: clamp(1rem, 1rem + 1vw, 1.75rem);
+	--body-line-height: 1.5;
+	--body-font-weight: 400;
+	--body-font-weight-bold: 700;
+	--body-font-family: "Roboto Condensed", sans-serif;
+	--body-font-margin-top: 0.75em;
+	--h1-font-size: 1.5em;
+	--h1-line-height: 1.2;
+	--h1-font-weight: 700;
+	--h1-font-family: "Open Sans", sans-serif;
+	--h1-font-margin-top: 2em;
+	--h2-font-size: 1.2em;
+
+	--width-pad: clamp(2rem, 2rem + 1vw, 3.5rem);
+}
+
+html, body, header, footer, main, nav, article, section, div, img, picture, svg, video {margin: 0; padding: 0; border: 0;}
+html {box-sizing: border-box; font-size: var(--html-font-size); hanging-punctuation: first last;}
+*, *::before, *::after {box-sizing: inherit; font: inherit;}
+body {min-height: 100svh; color: white; background: black; font-family: var(--body-font-family); font-weight: var(--body-font-weight); font-size: var(--body-font-size); line-height: var(--body-line-height);}
+h1, h2 {text-wrap: balance; font-family: var(--h1-font-family); font-weight: var(--h1-font-weight); line-height: var(--h1-line-height);}
+h1 {margin: var(--width-pad); margin-top: var(--h1-font-margin-top); font-size: var(--h1-font-size);}
+h2 {margin: 0; font-size: var(--h2-font-size);}
+li {text-wrap: pretty;}
+
+section {margin: var(--width-pad); padding: var(--width-pad);}

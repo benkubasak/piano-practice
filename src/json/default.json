@@ -1,0 +1,50 @@
+{
+  "title": "Piano Practice",
+  "sections": [
+    {
+      "color": "red",
+      "title": "LISTENING (Daily)",
+      "items": ["Book 2"]
+    },
+    {
+      "color": "orange",
+      "title": "PROJECT (Daily)",
+      "items": ["Minuet I (Bach) - Hands Together"]
+    },
+    {
+      "color": "yellow",
+      "title": "ARPEGGIOS (Daily)",
+      "items": ["C, D, F, G"]
+    },
+    {
+      "color": "green",
+      "title": "REVIEW (\"A\" Days)",
+      "items": ["Allegretto I", "Goodbye to Winter", "Allegro (Pop Pop)", "Ecossaise", "Short Story"]
+    },
+    {
+      "color": "green",
+      "title": "REVIEW (\"B\" Days)",
+      "items": ["Long Long Ago", "Christmas Day Secrets", "Musette", "Happy Farmer", "Pink Panther"]
+    },
+    {
+      "color": "blue",
+      "title": "READING (\"A\" Days)",
+      "items": ["Chantilly Lace"]
+    },
+    {
+      "color": "blue",
+      "title": "DUET (\"B\" Days)",
+      "items": ["Shepherd's Flute"]
+    },
+    {
+      "color": "indigo",
+      "title": "NOTEWORKS (Occasionally)",
+      "items": ["Level 8 - Timed"]
+    },
+    {
+      "color": "violet",
+      "title": "THEORY (Weekly)",
+      "items": ["Pages ??"]
+    }
+  ]
+}
