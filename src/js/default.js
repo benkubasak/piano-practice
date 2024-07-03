@@ -55,6 +55,9 @@ function loadJSONContent() {
             case "violet":
                 output = "violet";
                 break;
+            case "pink":
+                output = "hotpink";
+                break;
         }
         return output;
     }
