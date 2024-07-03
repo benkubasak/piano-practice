@@ -9,11 +9,11 @@
     {
       "color": "orange",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet I (Bach) - Hands Together"]
+      "items": ["Minuet I (Bach) - Right Hand", "Minuet I (Bach) - Left Hand"]
     },
     {
       "color": "yellow",
-      "title": "ARPEGGIOS (Daily)",
+      "title": "ARPEGGIOS (Daily,52 bpm)",
       "items": ["C, D, F, G"]
     },
     {
@@ -34,7 +34,7 @@
     {
       "color": "blue",
       "title": "DUET (\"B\" Days)",
-      "items": ["Shepherd's Flute"]
+      "items": ["Shepherd's Flute - Primo"]
     },
     {
       "color": "indigo",
@@ -44,7 +44,12 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages ??"]
+      "items": ["Pages 55-56"]
+    },
+    {
+      "color": "pink",
+      "title": "GROUP (Monthly)",
+      "items": ["TBD"]
     }
   ]
 }
