@@ -9,17 +9,17 @@
     {
       "color": "orange",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet I (Bach) - Right Hand", "Minuet I (Bach) - Left Hand"]
+      "items": ["Minuet I (Bach) - Both Hands"]
     },
     {
       "color": "yellow",
-      "title": "ARPEGGIOS (Daily,52 bpm)",
-      "items": ["C, D, F, G"]
+      "title": "ARPEGGIOS (Daily; 52 bpm)",
+      "items": ["C, G, F, D, E"]
     },
     {
       "color": "green",
       "title": "REVIEW (\"A\" Days)",
-      "items": ["Allegretto I", "Goodbye to Winter", "Allegro (Pop Pop)", "Ecossaise", "Short Story"]
+      "items": ["Allegretto I", "Goodbye to Winter", "Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story"]
     },
     {
       "color": "green",
@@ -29,12 +29,12 @@
     {
       "color": "blue",
       "title": "READING (\"A\" Days)",
-      "items": ["Chantilly Lace"]
+      "items": ["In the Midnight Hour"]
     },
     {
       "color": "blue",
       "title": "DUET (\"B\" Days)",
-      "items": ["Shepherd's Flute - Primo"]
+      "items": ["Village Dance - Secondo"]
     },
     {
       "color": "indigo",
@@ -44,7 +44,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 55-56"]
+      "items": ["Pages 57-58"]
     },
     {
       "color": "pink",
