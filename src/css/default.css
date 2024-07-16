@@ -26,3 +26,4 @@ h2 {margin: 0; font-size: var(--h2-font-size);}
 li {text-wrap: pretty;}
 
 section {margin: var(--width-pad); padding: var(--width-pad);}
+ul {padding: 0; list-style-position: inside;}
