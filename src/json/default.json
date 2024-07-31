@@ -14,7 +14,7 @@
     {
       "color": "yellow",
       "title": "ARPEGGIOS (Daily; 52 bpm)",
-      "items": ["C, G, F, D, E, A"]
+      "items": ["C, D, E, F, G, A, B"]
     },
     {
       "color": "green",
@@ -29,12 +29,12 @@
     {
       "color": "blue",
       "title": "READING (Daily)",
-      "items": ["In the Midnight Hour"]
+      "items": ["Mr. Tambourine Man"]
     },
     {
       "color": "indigo",
       "title": "DUET (Occasionally)",
-      "items": ["Polka - Primo"]
+      "items": ["Triple Dip"]
     },
     {
       "color": "indigo",
@@ -44,7 +44,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 59-61"]
+      "items": ["Pages 62-63"]
     },
     {
       "color": "pink",
