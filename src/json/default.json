@@ -13,8 +13,8 @@
     },
     {
       "color": "yellow",
-      "title": "ARPEGGIOS (Daily; 52 bpm)",
-      "items": ["C, D, E, F, G, A, B"]
+      "title": "ARPEGGIOS (Daily; 62 bpm)",
+      "items": ["C, C#, D, E, F, F# G, A, B"]
     },
     {
       "color": "green",
@@ -29,7 +29,7 @@
     {
       "color": "blue",
       "title": "READING (Daily)",
-      "items": ["Mr. Tambourine Man"]
+      "items": ["Long Tall Texan"]
     },
     {
       "color": "indigo",
@@ -44,7 +44,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 64, 2-3"]
+      "items": ["Pages 4-5"]
     },
     {
       "color": "pink",
