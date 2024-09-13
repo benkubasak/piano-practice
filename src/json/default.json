@@ -8,8 +8,8 @@
     },
     {
       "color": "orange",
-      "title": "PROJECT (Daily)",
-      "items": ["Minuet II - Right Hand"]
+      "title": "READING (Daily)",
+      "items": ["God Bless the Child"]
     },
     {
       "color": "yellow",
@@ -18,27 +18,27 @@
     },
     {
       "color": "green",
+      "title": "PROJECT (Daily)",
+      "items": ["Minuet II - Right Hand"]
+    },
+    {
+      "color": "blue",
       "title": "REVIEW (\"A\" Days)",
       "items": ["Allegretto I", "Goodbye to Winter", "Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story"]
     },
     {
-      "color": "green",
+      "color": "blue",
       "title": "REVIEW (\"B\" Days)",
       "items": ["Christmas Day Secrets", "Musette", "Happy Farmer", "Pink Panther", "Minuet I"]
     },
     {
-      "color": "blue",
-      "title": "READING (Daily)",
-      "items": ["God Bless the Child"]
-    },
-    {
       "color": "indigo",
-      "title": "DUET (Occasionally)",
+      "title": "DUET (\"A\" Days)",
       "items": ["Triple Dip"]
     },
     {
       "color": "indigo",
-      "title": "NOTEWORKS (Occasionally)",
+      "title": "NOTEWORKS (\"B\" Days)",
       "items": ["Level 11"]
     },
     {
