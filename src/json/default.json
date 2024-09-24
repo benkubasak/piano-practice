@@ -19,7 +19,7 @@
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet II - Right Hand"]
+      "items": ["Minuet II - Right Hand", "Minuet II - Left Hand"]
     },
     {
       "color": "blue",
@@ -44,12 +44,12 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 8-9"]
+      "items": ["Pages 10-11"]
     },
     {
       "color": "pink",
       "title": "GROUP (Monthly)",
-      "items": ["Minuet I (94 bpm)"]
+      "items": ["TBD"]
     }
   ]
 }
