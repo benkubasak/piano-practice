@@ -14,17 +14,17 @@
     {
       "color": "yellow",
       "title": "ARPEGGIOS (Daily; 62 bpm)",
-      "items": ["C, D, E, F, F# G, A, B", "C#, Eb"]
+      "items": ["C, D, E, F, F# G, A, B", "C#, Eb, Ab"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet II - Right Hand", "Minuet II - Left Hand"]
+      "items": ["Minuet II - Hands Together"]
     },
     {
       "color": "blue",
       "title": "REVIEW (\"A\" Days)",
-      "items": ["Allegretto I", "Goodbye to Winter", "Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story"]
+      "items": ["Allegretto I", "Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story"]
     },
     {
       "color": "blue",
@@ -39,12 +39,12 @@
     {
       "color": "indigo",
       "title": "NOTEWORKS (\"B\" Days)",
-      "items": ["Level 11"]
+      "items": ["Level 12"]
     },
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 14-15"]
+      "items": ["Pages 16-17"]
     },
     {
       "color": "pink",
