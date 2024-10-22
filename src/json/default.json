@@ -9,12 +9,12 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Baby Face"]
+      "items": ["Jingle Bells"]
     },
     {
       "color": "yellow",
       "title": "ARPEGGIOS (Daily; 62 bpm)",
-      "items": ["C, D, E, F, F# G, A, B", "C#, Eb, Ab"]
+      "items": ["C, D, E, F, F# G, A, B", "C#, Eb, Ab, Bb"]
     },
     {
       "color": "green",
@@ -44,7 +44,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 16-17"]
+      "items": ["Pages 18-19"]
     },
     {
       "color": "pink",
