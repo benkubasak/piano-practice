@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Rockin' Around the Christmas Tree"]
+      "items": ["Joy to the World"]
     },
     {
       "color": "yellow",
@@ -24,12 +24,12 @@
     {
       "color": "blue",
       "title": "REVIEW (\"A\" Days)",
-      "items": ["Allegretto I", "Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story"]
+      "items": ["Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story", "Minuet I (94 bpm)"]
     },
     {
       "color": "blue",
       "title": "REVIEW (\"B\" Days)",
-      "items": ["Christmas Day Secrets", "Musette", "Happy Farmer", "Pink Panther", "Minuet I (94 bpm)"]
+      "items": ["Christmas Day Secrets", "Musette", "Happy Farmer", "Pink Panther"]
     },
     {
       "color": "indigo",
