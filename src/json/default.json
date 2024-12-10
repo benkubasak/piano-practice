@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Joy to the World"]
+      "items": ["Holly Jolly Christmas"]
     },
     {
       "color": "yellow",
@@ -19,12 +19,12 @@
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet II - Hands Together"]
+      "items": ["Minuet III - Right Hand"]
     },
     {
       "color": "blue",
       "title": "REVIEW (\"A\" Days)",
-      "items": ["Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story", "Minuet I (94 bpm)"]
+      "items": ["Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story", "Minuet I (94 bpm)", "Minuet II"]
     },
     {
       "color": "blue",
@@ -39,12 +39,12 @@
     {
       "color": "indigo",
       "title": "NOTEWORKS (\"B\" Days)",
-      "items": ["Level 13"]
+      "items": ["Level 14"]
     },
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 22-24"]
+      "items": ["Pages 29-31"]
     },
     {
       "color": "pink",
