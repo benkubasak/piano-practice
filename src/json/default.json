@@ -9,17 +9,22 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Holly Jolly Christmas"]
+      "items": ["Deck the Halls"]
+    },
+    {
+      "color": "",
+      "title": "ARPEGGIOS",
+      "items": ["C, D, E, F, F# G, A, B", "C#, Eb, Ab, Bb"]
     },
     {
       "color": "yellow",
-      "title": "ARPEGGIOS (Daily; 62 bpm)",
-      "items": ["C, D, E, F, F# G, A, B", "C#, Eb, Ab, Bb"]
+      "title": "SCALES (Daily, 4 8ves)",
+      "items": ["C - hands alone"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet III - Right Hand"]
+      "items": ["Minuet in Gm - Right Hand, Left Hand"]
     },
     {
       "color": "blue",
@@ -44,7 +49,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 29-31"]
+      "items": ["Pages 32-33"]
     },
     {
       "color": "pink",
