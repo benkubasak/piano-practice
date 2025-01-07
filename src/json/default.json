@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Deck the Halls"]
+      "items": ["Night Before Christmas"]
     },
     {
       "color": "",
@@ -19,12 +19,12 @@
     {
       "color": "yellow",
       "title": "SCALES (Daily, 4 8ves)",
-      "items": ["C - hands alone"]
+      "items": ["C - Together"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet in Gm - Right Hand, Left Hand"]
+      "items": ["Minuet in Gm - Together"]
     },
     {
       "color": "blue",
@@ -49,12 +49,17 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 32-33"]
+      "items": ["Pages 34-35"]
     },
     {
       "color": "pink",
       "title": "GROUP (Monthly)",
       "items": ["TBD"]
+    },
+    {
+      "color": "pink",
+      "title": "RECITAL (Annual)",
+      "items": ["Minuet II"]
     }
   ]
 }
