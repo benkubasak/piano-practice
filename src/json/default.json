@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Night Before Christmas"]
+      "items": ["Dill Pickle"]
     },
     {
       "color": "",
@@ -18,18 +18,18 @@
     },
     {
       "color": "yellow",
-      "title": "SCALES (Daily, 4 8ves)",
-      "items": ["C - Together"]
+      "title": "SCALES (Daily)",
+      "items": ["C - 2 ways"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Minuet in Gm - Together"]
+      "items": ["Cradle Song - Right"]
     },
     {
       "color": "blue",
       "title": "REVIEW (\"A\" Days)",
-      "items": ["Allegro (Pop Pop)", "Ecossaise (98 bpm)", "Short Story", "Minuet I (94 bpm)", "Minuet II"]
+      "items": ["Ecossaise (98 bpm)", "Short Story", "Minuet I (94 bpm)", "Minuet II", "Minuet in gm"]
     },
     {
       "color": "blue",
@@ -49,7 +49,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 34-35"]
+      "items": ["Pages 36-38"]
     },
     {
       "color": "pink",
