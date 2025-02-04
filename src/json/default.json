@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Dill Pickle"]
+      "items": ["Left Hand Louisian"]
     },
     {
       "color": "",
@@ -24,7 +24,7 @@
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Cradle Song - Right"]
+      "items": ["Cradle Song - Right, Left line 1"]
     },
     {
       "color": "blue",
@@ -44,12 +44,12 @@
     {
       "color": "indigo",
       "title": "NOTEWORKS (\"B\" Days)",
-      "items": ["Level 14"]
+      "items": ["Level 16"]
     },
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 36-38"]
+      "items": ["Pages 41-42"]
     },
     {
       "color": "pink",
@@ -59,7 +59,7 @@
     {
       "color": "pink",
       "title": "RECITAL (Annual)",
-      "items": ["Minuet II"]
+      "items": ["TBD"]
     }
   ]
 }
