@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Whistle Stop Blues"]
+      "items": ["Ol' Man River"]
     },
     {
       "color": "",
@@ -19,22 +19,22 @@
     {
       "color": "yellow",
       "title": "SCALES (Daily)",
-      "items": ["C - 2 ways; 70 bpm"]
+      "items": ["C - 3 ways; 70 bpm"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Cradle Song - Right, Left line by line"]
+      "items": ["Cradle Song - Together"]
     },
     {
       "color": "blue",
       "title": "REVIEW (\"A\" Days)",
-      "items": ["Ecossaise (98 bpm)", "Short Story", "Minuet I (94 bpm)", "Minuet II", "Minuet in gm"]
+      "items": ["Ecossaise (98 bpm)", "Short Story", "Happy Farmer", "Pink Panther"]
     },
     {
       "color": "blue",
       "title": "REVIEW (\"B\" Days)",
-      "items": ["Christmas Day Secrets", "Musette", "Happy Farmer", "Pink Panther"]
+      "items": ["Minuet I (94 bpm)", "Minuet II", "Minuet in gm"]
     },
     {
       "color": "indigo",
@@ -49,7 +49,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 44-45"]
+      "items": ["Pages 46-47"]
     },
     {
       "color": "pink",
@@ -59,7 +59,7 @@
     {
       "color": "pink",
       "title": "RECITAL (Annual)",
-      "items": ["Happy Farmer"]
+      "items": ["Happy Farmer", "Triple Dip"]
     }
   ]
 }
