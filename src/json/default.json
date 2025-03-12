@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Ol' Man River"]
+      "items": ["Tea for Two"]
     },
     {
       "color": "",
@@ -18,8 +18,8 @@
     },
     {
       "color": "yellow",
-      "title": "SCALES (Daily)",
-      "items": ["C - 3 ways; 70 bpm"]
+      "title": "SCALES (Daily; 70 bpm)",
+      "items": ["C - 3 ways", "G - 1 way"]
     },
     {
       "color": "green",
@@ -39,12 +39,12 @@
     {
       "color": "indigo",
       "title": "DUET (\"A\" Days)",
-      "items": ["Triple Dip"]
+      "items": ["TBD"]
     },
     {
       "color": "indigo",
       "title": "NOTEWORKS (\"B\" Days)",
-      "items": ["Level 16"]
+      "items": ["Level 17"]
     },
     {
       "color": "violet",
@@ -59,7 +59,7 @@
     {
       "color": "pink",
       "title": "RECITAL (Annual)",
-      "items": ["Happy Farmer", "Triple Dip"]
+      "items": ["TBD"]
     }
   ]
 }
