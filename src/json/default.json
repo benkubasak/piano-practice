@@ -17,14 +17,19 @@
       "items": ["C, D, E, F, F# G, A, B", "C#, Eb, Ab, Bb"]
     },
     {
+      "color": "",
+      "title": "SCALES",
+      "items": ["C - 3 ways"]
+    },,
+    {
       "color": "yellow",
       "title": "SCALES (Daily; 70 bpm)",
-      "items": ["C - 3 ways", "G - 1 way"]
+      "items": ["G - 1 way"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Cradle Song - Together"]
+      "items": ["Arietta - read right"]
     },
     {
       "color": "blue",
@@ -34,22 +39,22 @@
     {
       "color": "blue",
       "title": "REVIEW (\"B\" Days)",
-      "items": ["Minuet I (94 bpm)", "Minuet II", "Minuet in gm"]
+      "items": ["Minuet I (94 bpm)", "Minuet II", "Minuet in gm", "Cradle Song"]
     },
     {
       "color": "indigo",
       "title": "DUET (\"A\" Days)",
-      "items": ["TBD"]
+      "items": ["Carnival"]
     },
     {
       "color": "indigo",
       "title": "NOTEWORKS (\"B\" Days)",
-      "items": ["Level 17"]
+      "items": ["Level 18"]
     },
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 46-47"]
+      "items": ["Pages 48-49"]
     },
     {
       "color": "pink",
