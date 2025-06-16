@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["He's a Pirate"]
+      "items": ["Music Box Dancer"]
     },
     {
       "color": "",
@@ -24,12 +24,12 @@
     {
       "color": "yellow",
       "title": "SCALES (Daily; 70 bpm)",
-      "items": ["D - 1 way"]
+      "items": ["D - 3 ways"]
     },
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Hungarian - right"]
+      "items": ["Hungarian - together"]
     },
     {
       "color": "blue",
@@ -47,14 +47,14 @@
       "items": ["Swirling Winds - secondo"]
     },
     {
-      "color": "indigo",
+      "color": "",
       "title": "NOTEWORKS (\"B\" Days)",
-      "items": ["Level 20"]
+      "items": ["Level 21"]
     },
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 2-3"]
+      "items": ["Pages 6-7"]
     },
     {
       "color": "pink",
