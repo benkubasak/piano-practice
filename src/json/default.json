@@ -24,7 +24,7 @@
     {
       "color": "yellow",
       "title": "SCALES (Daily; 70 bpm)",
-      "items": ["A - 1 way"]
+      "items": ["A - 2 ways"]
     },
     {
       "color": "green",
@@ -54,7 +54,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 14-15"]
+      "items": ["Pages 16-17"]
     },
     {
       "color": "pink",
@@ -68,4 +68,5 @@
     }
   ]
 }
+
 
