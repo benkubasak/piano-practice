@@ -9,7 +9,7 @@
     {
       "color": "orange",
       "title": "READING (Daily)",
-      "items": ["Phantom of the Opera"]
+      "items": ["A Whole New World"]
     },
     {
       "color": "",
@@ -29,7 +29,7 @@
     {
       "color": "green",
       "title": "PROJECT (Daily)",
-      "items": ["Melody - right"]
+      "items": ["Melody - together"]
     },
     {
       "color": "blue",
@@ -54,7 +54,7 @@
     {
       "color": "violet",
       "title": "THEORY (Weekly)",
-      "items": ["Pages 16-17"]
+      "items": ["Pages 18-19"]
     },
     {
       "color": "pink",
@@ -68,5 +68,6 @@
     }
   ]
 }
+
 
 
